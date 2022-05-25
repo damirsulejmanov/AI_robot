@@ -1,0 +1,7 @@
+I:\_up-step\vs\AI_robot\bin\Debug\AI_robot.exe.config
+I:\_up-step\vs\AI_robot\bin\Debug\AI_robot.exe
+I:\_up-step\vs\AI_robot\bin\Debug\AI_robot.pdb
+I:\_up-step\vs\AI_robot\obj\Debug\AI_robot.csproj.AssemblyReference.cache
+I:\_up-step\vs\AI_robot\obj\Debug\AI_robot.csproj.CoreCompileInputs.cache
+I:\_up-step\vs\AI_robot\obj\Debug\AI_robot.exe
+I:\_up-step\vs\AI_robot\obj\Debug\AI_robot.pdb
